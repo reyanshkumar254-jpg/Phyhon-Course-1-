@@ -1,5 +1,5 @@
-num = int(input("Enter a number"))
+x = int(input("Enter a number"))
 
-squareRoot = num ** 0.5
+squareRoot = x ** 0.5
 a= float(squareRoot)
-print("Square root of", num, "is", a)
+print("Square root of", x, "is", a)
