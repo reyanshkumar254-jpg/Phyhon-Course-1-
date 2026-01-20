@@ -1,5 +1,4 @@
-print("ASCII Value Checker")
-print("=" * 40)
+print("ASCII Value Checker -")
 
 char = input("Enter a single character: ")
 
